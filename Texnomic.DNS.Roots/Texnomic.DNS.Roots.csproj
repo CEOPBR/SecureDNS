@@ -15,7 +15,7 @@
   <ItemGroup>
     <PackageReference Include="HtmlAgilityPack" Version="1.11.43" />
     <PackageReference Include="RestSharp" Version="108.0.1" />
-    <PackageReference Include="YamlDotNet" Version="11.2.1" />
+    <PackageReference Include="YamlDotNet" Version="13.0.0" />
   </ItemGroup>
 
   <Target Name="PostBuild" AfterTargets="PostBuildEvent">
